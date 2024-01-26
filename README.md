@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Destin a new software developer, soon to be attending a Tech Elevator Coding Bootcamp!
+I'm Destin a new software developer, and recent graduate of Tech Elevator Coding Bootcamp!
 
 <!--
 **berniedestin/berniedestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
