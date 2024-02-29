@@ -2,6 +2,8 @@
 
 I'm Destin a new software developer, and recent graduate of Tech Elevator Coding Bootcamp!
 
+Here's a little [Etch-a-sketch project](https://berniedestin.github.io/odin-etch-a-sketch/) I did a while ago.
+
 <!--
 **berniedestin/berniedestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
