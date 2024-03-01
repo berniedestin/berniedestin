@@ -2,11 +2,11 @@
 
 I'm Destin a new software developer, and recent graduate of Tech Elevator Coding Bootcamp!
 
-Here's a little [Etch-a-sketch project](https://berniedestin.github.io/odin-etch-a-sketch/) I did a while ago.
+->Here's a little [Etch-a-sketch project](https://berniedestin.github.io/odin-etch-a-sketch/) I did a while ago.
 
-[Here's a project I'm working on right now.](https://berniedestin.github.io/terminal-page/) I wanted to emulate the feel of a terminal, but on the front end.
-- Try typing ```add 1 2``` or insert your own numbers ```add <number> <number> <number> ...```
-- After a few commands, try typing ```clear```
+->[Here's a project I'm working on right now.](https://berniedestin.github.io/terminal-page/) I wanted to emulate the feel of a terminal, but on the front end.
+  - Try typing ```add 1 2``` or insert your own numbers ```add <number> <number> <number> ...```
+  - After a few commands, try typing ```clear```
 
 <!--
 **berniedestin/berniedestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
