@@ -6,7 +6,7 @@ I'm Destin a new software developer, and recent graduate of Tech Elevator Coding
 
 👉 Here's a [front-end effects experiment](https://berniedestin.github.io/canvas-practice/) I did.
 
-👉 Here's [a terminal project I'm working on right now.](https://berniedestin.github.io/terminal-page/) I wanted to emulate the feel of a terminal, but on the front end.
+👉 Here's [a terminal project I'm working on right now.](https://berniedestin.github.io/terminal-page-vue/) I wanted to emulate the feel of a terminal, but on the front end.
   - Try typing ```add 1 2``` or insert your own numbers ```add <number> <number> <number> ...```
   - After a few commands, try typing ```clear```
 
