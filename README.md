@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Destin a new software developer, and recent graduate of Tech Elevator Coding Bootcamp!
+I'm Destin, a software developer!
+
+👉 Here's a Trouble clone I called [Setback](https://berniedestin.github.io/setback/)
 
 👉 Here's a little [Etch-a-sketch project](https://berniedestin.github.io/odin-etch-a-sketch/) I did a while ago.
 
